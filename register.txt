@@ -1,3 +1,7 @@
 This is my Registration TextFile
+<<<<<<< HEAD
 To Design the registration UI
 For ammend command testing
+=======
+To Design the registration UI
+>>>>>>> 14afa70b3f0b17d1726f86783dcf845dd3c7aa06
